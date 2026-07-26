@@ -1,0 +1,1 @@
+This file confirms the resume asset folder is part of the deployment package.

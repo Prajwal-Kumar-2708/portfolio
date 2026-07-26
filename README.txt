@@ -1,0 +1,1 @@
+Resume asset placeholder for GitHub Pages deployment.
